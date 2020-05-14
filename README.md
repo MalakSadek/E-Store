@@ -5,6 +5,8 @@ An online marketplace mobile application (2018).
 
 The **iOS** version is created in **Swift** and the **Android** version in **Java**. A **MySQL database** was created to host the back end and was initially hosted locally using **PHPMyAdmin** (which is why a custom IP address was needed to access it through **ngork**). This database was later migrated to **RemoteMySQL** and the PHP API files hosted on **000webhost**. The application communicates with the database through custom made APIs written in **PHP** and containing **complex SQL queries**. The database itself makes use of SQL Views, Foreign Keys, and One-to-One, One-to-Many, and Many-to-Many data relationship models. It is a model and a proof of concept, not yet intended for commercial use, it cannot handle financial transaction and real credit card information should NOT be stored on the application.
 
+![picture alt](https://github.com/MalakSadek/StaticTimingAnalyzer/blob/master/OutputDAG.png "Output Report")
+
 Screenshots and videos of the application can be found here: https://malaksadek.wordpress.com/2019/08/09/estore-the-online-marketplace/
 
 # Download the App:
