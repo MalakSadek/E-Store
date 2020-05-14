@@ -1,5 +1,5 @@
 # E-Store
-An online marketplace mobile application (2018)
+An online marketplace mobile application (2018).
 
 🛍🛒 EStore started as a project for my Database course. It's an online marketplace where you can register as a buyer or seller (or both). As a buyer you can search for stores by their name, the products they offer, or their category. You can view your cart and place an order. As a seller, you can set up your store and add products (you can edit both your store and the products you add later) and you can also keep track of the orders placed by buyers. As a buyer, you can register as a seller and setup a store at any time and vice versa. The application is not currently for use by the public, and cannot handle actual financial transactions, however it's live and all features are working.
 
