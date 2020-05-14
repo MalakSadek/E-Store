@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/devs"
+        android:enabled="true"
+        android:icon="?attr/homeAsUpIndicator"
+        android:title="Developers"
+        android:visible="true"
+        app:showAsAction="always" />
+</menu>
